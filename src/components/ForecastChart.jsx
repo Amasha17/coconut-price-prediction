@@ -159,10 +159,7 @@ function ForecastChart() {
         </ComposedChart>
       </ResponsiveContainer>
 
-      {/* Footer note */}
-      <p style={{ fontSize: "11px", color: "#aaa", textAlign: "center", marginTop: "12px" }}>
-        * Replace forecast values in <code>src/data/priceData.js</code> with your actual GRU model output from Google Colab
-      </p>
+
     </div>
   );
 }
