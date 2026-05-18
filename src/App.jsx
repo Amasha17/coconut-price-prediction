@@ -52,7 +52,7 @@ function App() {
           <div style={{ display: "flex", gap: "12px", flexWrap: "wrap" }}>
             {[
               { label: "Best Model", value: "GRU", icon: "🤖" },
-              { label: "Accuracy", value: "MAPE ≈ 3.7%", icon: "🎯" },
+              { label: "Accuracy", value: "MAPE ≈ 3.79%", icon: "🎯" },
               { label: "Data Period", value: "2021 – 2026", icon: "📅" },
               { label: "Weekly Records", value: "236", icon: "📊" },
               { label: "Forecast Horizon", value: "5 Weeks", icon: "🔮" },

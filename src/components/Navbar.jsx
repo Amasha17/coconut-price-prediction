@@ -23,7 +23,7 @@ function Navbar() {
         }}>🥥</div>
         <div>
           <div style={{ fontSize: "15px", fontWeight: "700", color: "#1b5e20", lineHeight: 1.2 }}>
-            CoconutForecast.lk
+            Coconut Price Prediction
           </div>
           <div style={{ fontSize: "10px", color: "#66bb6a", letterSpacing: "0.5px" }}>
             Wholesale Price Prediction · Sri Lanka

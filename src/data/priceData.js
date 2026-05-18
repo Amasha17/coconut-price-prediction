@@ -494,9 +494,9 @@ export const recentPrices = [
 
 // 5-week GRU forecast (Method 2) | MAPE approx 3.7%
 export const forecastPrices = [
-  { date: "Week 1", price: 83851 },
-  { date: "Week 2", price: 82677 },
-  { date: "Week 3", price: 81654 },
-  { date: "Week 4", price: 80695 },
-  { date: "Week 5", price: 79776 },
+  { date: "Week 1", price: 83038 },
+  { date: "Week 2", price: 81723 },
+  { date: "Week 3", price: 80531 },
+  { date: "Week 4", price: 79409 },
+  { date: "Week 5", price: 78339 },
 ];
